@@ -1,6 +1,6 @@
 <div align="center">
 
-# Astro Lan-Play
+# 👾 ASTRO Lan-Play 👾
 <br>
 
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue?logo=telegram&style=for-the-badge)](https://t.me/the_J3an)
