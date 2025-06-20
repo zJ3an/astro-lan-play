@@ -11,8 +11,6 @@
 
 Una interfaz gráfica (GUI) desarrollada en Python que trabaja junto con [switch-lan-play](https://github.com/spacemeowx2/switch-lan-play), permitiendo gestionar conexiones a servidores de manera más simple, rápida y visual.
 
-> ⚠️ Esta es una pre-release (v0.9.9) pensada para pruebas internas. Si encuentras errores o tienes sugerencias, no dudes en avisar.
-
 ---
 
 ## ✨ Características
@@ -41,7 +39,7 @@ Astro Lan-Play se utiliza de la siguiente manera:
      - Puedes **compartir este archivo** con otros usuarios para que tengan la misma lista de servidores que tú.
    - `settings.json`: almacena los ajustes generales del programa (preferencias, configuraciones locales, etc.).
 
-## 📦 Descargas Pre-Release v0.9.9
+## 📦 Descargas Release v1.0.0
 
 A continuación te dejo dos opciones para descargar Astro Lan-Play:
 
@@ -52,20 +50,16 @@ Contiene únicamente el ejecutable de la interfaz gráfica.
 - El ejecutable de `switch-lan-play` debe llamarse **exactamente** `lan-play.exe`.
 - Úsalo si ya tienes `switch-lan-play` instalado.
 
-🔗 [Descargar Pack 1 – astro-lan-play.exe](https://github.com/zJ3an/astro-lan-play/releases/download/v0.9.9/astro-lan-play_v0.9.9.exe)
+🔗 [Descargar Pack 1 – astro-lan-play.exe](https://github.com/zJ3an/astro-lan-play/releases/download/v1.0.0/astro-lan-play_v1.0.0.exe)
 
 ---
 
 ### 🔸 Pack 2 – Listo para usar (`astro-lan-play.exe + lan-play.exe`)
 Un `.zip` que incluye todo lo necesario para empezar a usar el programa inmediatamente:
 
-- `astro-lan-play.exe`
+- `astro-lan-play.exe` (versión incluida: **v1.0.0**)
 - `lan-play.exe` (versión incluida: **v0.2.3**)
 
 > Solo necesitas descomprimirlo y ejecutarlo.
 
-🔗 [Descargar Pack 2 – ZIP completo](https://github.com/zJ3an/astro-lan-play/releases/download/v0.9.9/astro-lan-play_v0.9.9.zip)
-
----
-
-> 💡 La versión de `switch-lan-play` incluida es: **v0.2.3**
+🔗 [Descargar Pack 2 – ZIP completo](https://github.com/zJ3an/astro-lan-play/releases/download/v1.0.0/astro-lan-play_v1.0.0.zip)
