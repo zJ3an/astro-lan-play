@@ -1,13 +1,29 @@
-<div align="center">
+<p align="center">
+  <h1 align="center">👾 Astro Lan-Play 👾</h1>
+</p>
 
-# 👾 ASTRO Lan-Play 👾
-<br>
+<p align="center">
+  <a href="https://zj3an.vercel.app/donate.html">
+    <img src="https://img.shields.io/badge/💖%20Donate-Apóyame%20con%20una%20donación-blueviolet" alt="Donar">
+  </a>
+</p>
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue?logo=telegram&style=for-the-badge)](https://t.me/the_J3an)
-&nbsp;&nbsp;
-[![X (Twitter)](https://img.shields.io/badge/X-zJ3an-twitter?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/zJ3an)
+<p align="center">
+  <p align="center">Comunidad</p>
+</p>
+<p align="center">
+  <a href="https://discord.gg/K7k2pzT8de">
+    <img src="https://img.shields.io/badge/Discord-Astro%20Homebrew-5865F2?logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://t.me/AstroHomebrew">
+    <img src="https://img.shields.io/badge/Canal-Telegram-229ED9?logo=telegram&logoColor=white" alt="Canal Telegram">
+  </a>
+  <a href="https://t.me/AstroHomebrewChat">
+    <img src="https://img.shields.io/badge/Chat-Telegram-229ED9?logo=telegram&logoColor=white" alt="Chat Telegram">
+  </a>
+</p>
 
-</div>
+---
 
 Una interfaz gráfica (GUI) desarrollada en Python que trabaja junto con [switch-lan-play](https://github.com/spacemeowx2/switch-lan-play), permitiendo gestionar conexiones a servidores de manera más simple, rápida y visual.
 
