@@ -27,7 +27,7 @@ class AstroLanPlayApp(ctk.CTk):
     def __init__(self):
         super().__init__()
 
-        self.title("astro-lan-play v1.0.0 | Developed by @zj3an")
+        self.title("Astro Lan-Play v1.1.0 | GitHub - @zj3an")
         self.geometry("800x500")
 
         # Carga segura del icono
