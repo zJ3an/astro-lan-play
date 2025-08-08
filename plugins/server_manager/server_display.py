@@ -16,7 +16,7 @@ import re
 BASE_DIR = os.path.dirname(os.path.abspath(sys.argv[0]))
 SERVERS_FILE = os.path.join(BASE_DIR, "servers.json")
 SETTINGS_FILE = os.path.join(BASE_DIR, "settings.json")
-LAN_PLAY_EXECUTABLE = os.path.join(BASE_DIR, "lan-play.exe")
+LAN_PLAY_EXECUTABLE = os.path.join(BASE_DIR, "utils/lan-play.exe")
 
 def abs_path(relative):
     return os.path.join(BASE_DIR, relative)
